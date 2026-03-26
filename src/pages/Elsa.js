@@ -1,7 +1,6 @@
 function Elsa() {
   return (
     <div className="min-h-screen bg-[#f3f2ef] p-6 flex justify-center">
-      <h1 className="text-red-500">HALAMAN ELSA BARU</h1>
       <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-4 gap-6">
 
         <div className="bg-white rounded-xl shadow p-4 h-fit">
@@ -103,7 +102,7 @@ function Elsa() {
               <div className="w-10 h-10 bg-gray-300 rounded-full"></div>
               <div>
                 <p className="font-medium">Halima</p>
-                <p className="text-gray-500 text-xs">Software Engg</p>
+                <p className="text-gray-500 text-xs">Undergraduate Information Technology</p>
               </div>
             </div>
 
@@ -111,15 +110,15 @@ function Elsa() {
               <div className="w-10 h-10 bg-gray-300 rounded-full"></div>
               <div>
                 <p className="font-medium">Lutfia</p>
-                <p className="text-gray-500 text-xs">Mahasiswa</p>
+                <p className="text-gray-500 text-xs">Undergraduate Information Technology</p>
               </div>
             </div>
           </div>
         </div>
 
-      </div> {/* GRID */}
+      </div>
 
-    </div> /* MAIN */
+    </div>
   );
 }
 
