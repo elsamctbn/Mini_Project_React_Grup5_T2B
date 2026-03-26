@@ -2,7 +2,11 @@ function Elsa() {
   return (
     <div className="min-h-screen bg-[#f3f2ef] p-6 flex justify-center">
       
+      <h1 className="text-red-500 text-center text-xl mb-4">
+        HALAMAN ELSA
+      </h1>
       <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-4 gap-6">
+        
         <div className="bg-white rounded-xl shadow p-4 h-fit">
           <div>
             <div className="flex justify-center">
@@ -69,7 +73,7 @@ function Elsa() {
           <div className="bg-white rounded-xl shadow p-6">
             <h2 className="font-semibold mb-2">About</h2>
 
-            <div className="text-gray-600 text-sm text-justify space-y-4">
+            <div className="text-gray-600 text- sm text-justify space-y-4">
               <p>
                 Elsa Maria Condoleza Tambunan is an undergraduate student in Information Technology at Brawijaya University.
                 She has a strong passion for the creative industry, technology, cybersecurity, and graphic design,
