@@ -1,12 +1,9 @@
 function Elsa() {
   return (
     <div className="min-h-screen bg-[#f3f2ef] p-6 flex justify-center">
-      
-      <h1 className="text-red-500 text-center text-xl mb-4">
-        HALAMAN ELSA
-      </h1>
+      <h1 className="text-red-500">HALAMAN ELSA BARU</h1>
       <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-4 gap-6">
-        
+
         <div className="bg-white rounded-xl shadow p-4 h-fit">
           <div>
             <div className="flex justify-center">
