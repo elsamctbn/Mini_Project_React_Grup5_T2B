@@ -64,14 +64,14 @@ function Halimah() {
               <div className="w-10 h-10 bg-gray-300 rounded-full"></div>
               <div>
                 <p className="text-sm font-medium">Elsa Maria Condoleza Tambunan</p>
-                <p className="text-xs text-gray-500">Mahasiswa Kelas T2B Vokasi, Teknologi Informasi</p>
+                <p className="text-xs text-gray-500">Mahasiswa Vokasi, Teknologi Informasi</p>
               </div>
             </div>
 
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 bg-gray-300 rounded-full"></div>
               <div>
-                <p className="text-sm font-medium">Luthfia Ifada</p>
+                <p className="text-sm font-medium">Luthfia Ifadah</p>
                 <p className="text-xs text-gray-500">Mahasiswa Vokasi, Teknologi Informasi</p>
               </div>
             </div>
